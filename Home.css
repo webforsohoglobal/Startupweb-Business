@@ -1,6 +1,5 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25));
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -1449,9 +1448,9 @@
   white-space: nowrap;
   height: 32px;
   min-height: 16px;
-  width: 242px;
-  min-width: 178px;
-  margin: 30px auto 0 0;
+  width: 172px;
+  min-width: 124px;
+  margin: 82px auto 0 0;
 }
 
 .u-section-8 .u-icon-1 {
@@ -1466,17 +1465,12 @@
 
 .u-section-8 .u-icon-3 {
   height: 100%;
-  color: rgb(0, 230, 118) !important;
-}
-
-.u-section-8 .u-icon-4 {
-  height: 100%;
   color: rgb(17, 17, 17) !important;
 }
 
 .u-section-8 .u-line-1 {
   width: 456px;
-  margin: 20px 0 0;
+  margin: 76px auto 0 0;
 }
 
 .u-section-8 .u-text-2 {
@@ -1485,18 +1479,7 @@
   line-height: 1.8;
   letter-spacing: 3px;
   background-image: none;
-  margin: 75px 54px 0 0;
-}
-
-.u-section-8 .u-icon-5 {
-  font-size: 2.1em;
-  color: rgb(27, 215, 65) !important;
-}
-
-.u-section-8 .u-btn-1 {
-  background-image: none;
-  font-size: 2.25rem;
-  padding: 0;
+  margin: -32px 54px 0 0;
 }
 
 .u-section-8 .u-layout-cell-2 {
